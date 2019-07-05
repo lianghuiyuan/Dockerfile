@@ -1,1 +1,3 @@
 此dockerfile需要配置源码目录，替换源码目录中的Dockerfile即可
+
+添加aliyun-log-grafana-datasource-plugin插件功能
